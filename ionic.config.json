@@ -1,0 +1,7 @@
+{
+  "name": "appentrega",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
